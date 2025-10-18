@@ -1,5 +1,5 @@
 
-```markdown
+
 # 💰 Personal Expense Tracker (Flutter)
 
 A sleek and user-friendly **Flutter Expense Tracker** app that helps you record, search, and manage daily expenses — available on **mobile** and **web**.
@@ -13,16 +13,16 @@ This project demonstrates clean UI design, persistent local storage using `Share
 ### 📱 Mobile View
 <p align="center">
   <img src="screenshots/mobile_home.png" alt="Mobile Home" width="250" style="border-radius:10px; margin-right:10px;" />
-  <img src="screenshots/mobile_add.png" alt="Mobile Add Expense" width="250" style="border-radius:10px;" />
+ 
 </p>
 
 ### 💻 Web View
 <p align="center">
   <img src="screenshots/web_home.png" alt="Web Home" width="450" style="border-radius:10px; margin-right:10px;" />
-  <img src="screenshots/web_add.png" alt="Web Add Expense" width="450" style="border-radius:10px;" />
+ 
 </p>
 
-> *(Place your screenshots in a folder named `screenshots/` at the project root.)*
+
 
 ---
 
@@ -74,7 +74,7 @@ screenshots/
    ```bash
    git clone https://github.com/<your-username>/personal_expense_tracker.git
    cd personal_expense_tracker
-````
+
 
 2. **Install Dependencies**
 
@@ -93,7 +93,8 @@ screenshots/
    ```bash
    flutter run -d chrome
    ```
-
+5. **Download APK**
+   <a href link ="">Click Here<a/>
 ---
 
 ## 📱 App Overview
@@ -163,11 +164,8 @@ Future<void> _loadExpenses() async {
 
 This project is licensed under the **MIT License** — you’re free to use, modify, and distribute it with attribution.
 
----
 
-⭐ **If you found this project helpful, give it a star on GitHub!**
 
-```
 
 
 
