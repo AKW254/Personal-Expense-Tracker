@@ -12,13 +12,13 @@ This project demonstrates clean UI design, persistent local storage using `Share
 
 ### 📱 Mobile View
 <p align="center">
-  <img src="screenshots/mobile_home.png" alt="Mobile Home" width="250" style="border-radius:10px; margin-right:10px;" />
+  <img src="screenshot/mobile_home.jpg" alt="Mobile Home" width="250" style="border-radius:10px; margin-right:10px;" />
  
 </p>
 
 ### 💻 Web View
 <p align="center">
-  <img src="screenshots/web_home.png" alt="Web Home" width="450" style="border-radius:10px; margin-right:10px;" />
+  <img src="screenshot/web_home.jpg" alt="Web Home" width="450" style="border-radius:10px; margin-right:10px;" />
  
 </p>
 
@@ -94,7 +94,7 @@ screenshots/
    flutter run -d chrome
    ```
 5. **Download APK**
-   <a href link ="">Click Here<a/>
+   <a href link ="apk/test_app.apk">Click Here<a/>
 ---
 
 ## 📱 App Overview
