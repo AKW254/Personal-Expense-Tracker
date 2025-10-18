@@ -94,7 +94,7 @@ screenshots/
    flutter run -d chrome
    ```
 5. **Download APK**
-   <a href link ="apk/test_app.apk">Click Here<a/>
+   <a href link ="https://github.com/AKW254/Personal-Expense-Tracker/blob/main/apk/test_app.apk">Click Here<a/>
 ---
 
 ## 📱 App Overview
@@ -163,6 +163,7 @@ Future<void> _loadExpenses() async {
 ## 🪪 License
 
 This project is licensed under the **MIT License** — you’re free to use, modify, and distribute it with attribution.
+
 
 
 
